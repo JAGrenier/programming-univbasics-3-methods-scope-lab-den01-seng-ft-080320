@@ -17,4 +17,4 @@ def all_phrases
   puts mario
 end
 
- all_phrases 
+ all_phrases
